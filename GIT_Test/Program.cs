@@ -10,14 +10,7 @@ namespace GIT_Test
     {
         static void Main(string[] args)
         {
-            if (args[0] =="-help")
-            {
-                Console.WriteLine("New Branch name");
-            }
-            else
-            {
-                Console.WriteLine("Hello Git");
-            }
+            Console.WriteLine("Hello Git");
         }
     }
 }
