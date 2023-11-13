@@ -12,7 +12,7 @@ namespace GIT_Test
         {
             if (args[0] =="-help")
             {
-                Console.WriteLine("Vezio követés");
+                Console.WriteLine("Vezió követés");
             }
             else
             {
