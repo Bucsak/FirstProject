@@ -10,7 +10,14 @@ namespace GIT_Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Git");
+            if (args[0] =="-help")
+            {
+                Console.WriteLine("Vezio követés");
+            }
+            else
+            {
+                Console.WriteLine("Hello Git");
+            }
         }
     }
 }
