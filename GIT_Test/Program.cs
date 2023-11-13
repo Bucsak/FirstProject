@@ -12,7 +12,7 @@ namespace GIT_Test
         {
             if (args[0] =="-help")
             {
-                Console.WriteLine("New Branch name");
+                Console.WriteLine("vezio követés");
             }
             else
             {
